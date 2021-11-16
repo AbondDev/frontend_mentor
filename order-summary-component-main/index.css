@@ -1,0 +1,37 @@
+/* 
+
+Steps:
+1. This needs to be responsive so design for mobile first. Media queries will likely accomplish this goal for us
+2. Everything needs to be centered well. Can use flexbox for this
+
+
+
+Requirements:
+
+background
+- should have one image on regular screens and a different one on mobile devices
+
+
+Card Design
+- centered vertically and horizontally.  
+- Height ~ 80% of the vertical space with the remaining space split between top and bottom
+- Width ~ 30% of the page with the remaining space split between top and bottom
+- Beveled edges
+
+
+Card content
+- image takes up full width of card and around 1/4 of the card's size
+- Some spacing, then, Order summary
+- Paragraph explaining the selection
+- Annual Plan section with
+    - music icon
+    - Plan type
+    - plan cost
+    - A link to the plan
+- Proceed to payment Button
+- cancel order button
+
+
+
+
+*/

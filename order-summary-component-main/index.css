@@ -35,3 +35,36 @@ Card content
 
 
 */
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+body {
+  background-image: url(./images/pattern-background-desktop.svg);
+}
+.card {
+  height: 80%;
+  width: 30%;
+  margin: auto;
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: white;
+}
+.card-img {
+    /* border-radius: 10px; */
+    display: block;
+  width: 100%;
+  height: 100%;
+  /* padding-bottom: 2px; */
+  /* background-image: url(./images/illustration-hero.svg); */
+}
+
+.card-content {
+  padding-top: 0;
+  display: block;
+}
